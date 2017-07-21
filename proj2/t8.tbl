@@ -1,0 +1,5 @@
+x int,y float
+4,NaN
+NaN,3.5
+7,2.3
+1,NaN
